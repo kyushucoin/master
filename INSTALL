@@ -1,0 +1,9 @@
+Building KyushuCoin
+
+See doc/readme-qt.rst for instructions on building KyushuCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of KyushuCoin.
+
+See doc/build-*.txt for instructions on building KyushuCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of KyushuCoin.
